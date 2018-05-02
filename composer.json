@@ -1,5 +1,5 @@
 {
-    "name": "darkterminal/jsoncrud",
+    "name": "darkterminal/jsonconnection",
     "description": "Crud for JSON Flie using PHP",
     "type": "library",
     "license": "MIT",
