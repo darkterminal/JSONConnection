@@ -1,0 +1,19 @@
+{
+    "name": "darkterminal/jsoncrud",
+    "description": "Crud for JSON Flie using PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "darkterminal",
+            "email": "fscodexxx@yahoo.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Darkterminal\\": "src/"
+        }
+    }
+}
