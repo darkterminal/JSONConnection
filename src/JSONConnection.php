@@ -3,11 +3,12 @@
 namespace Darkterminal;
 
 /**
-* Json CRUD
+* Json Connection
 *
-* This plugin may be help somebody to interact with static website
-* create manifets and display into screen, make collection of data
-* easy and reusable
+* @author  Darkterminal <trojanboy302@gmail.com>
+* @package JSONConnection
+* @version v1.0
+* 
 */
 class JSONConnection
 {
