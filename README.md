@@ -1,5 +1,7 @@
 # JSON Connection File
-
+[![Latest Stable Version](https://poser.pugx.org/darkterminal/jsonconnection/v/stable)](https://packagist.org/packages/darkterminal/jsonconnection)
+[![Total Downloads](https://poser.pugx.org/darkterminal/jsonconnection/downloads)](https://packagist.org/packages/darkterminal/jsonconnection)
+[![License](https://poser.pugx.org/darkterminal/jsonconnection/license)](https://packagist.org/packages/darkterminal/jsonconnection)
 ## Installation
 ```
 composer require darkterminal/jsonconnection
